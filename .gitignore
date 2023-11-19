@@ -1,0 +1,8 @@
+build
+*.keys
+*.bin
+*.elf
+*.nacp
+*.nro
+__pycache__
+python/main.py
